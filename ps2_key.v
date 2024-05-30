@@ -1,11 +1,4 @@
 
-/*
- FPGA Project: PS/2 Keyboard typing to RS-232 connected terminal
-*/
-
-
-
-
 module ps2_key(
 	input clk,
 	input reset,
